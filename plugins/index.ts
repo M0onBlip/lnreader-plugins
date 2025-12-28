@@ -41,6 +41,7 @@ import p_38 from '@plugins/english/FansMTL[readwn]';
 import p_39 from '@plugins/english/FansTranslations[madara]';
 import p_40 from '@plugins/english/FirstKissNovel[madara]';
 import p_41 from '@plugins/english/Foxaholic[madara]';
+import p_247 from '@plugins/english/Foxaholic[madara]';
 import p_42 from '@plugins/english/FreeWebNovel[readnovelfull]';
 import p_43 from '@plugins/english/GalaxyTranslations[madara]';
 import p_44 from '@plugins/english/Guavaread[madara]';
@@ -495,5 +496,6 @@ const PLUGINS: Plugin.PluginBase[] = [
   p_244,
   p_245,
   p_246,
+  p_247,
 ];
 export default PLUGINS;

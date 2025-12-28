@@ -214,6 +214,14 @@
     }
   },
   {
+    "id": "foxaholic18",
+    "sourceSite": "https://www.18.foxaholic.com/",
+    "sourceName": "Foxaholic18",
+    "options": {
+      "useNewChapterEndpoint": true
+    }
+  },
+  {
     "id": "nitromanga",
     "sourceSite": "https://nitromanga.com/",
     "sourceName": "Nitro Manga",
